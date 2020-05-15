@@ -18,8 +18,7 @@ Install all packages with ```npm install```
 
 The project gathers weather data from [WeatherStack](https://weatherstack.com/) and needs an API key to be setup.
 
-Register on the website and insert your API key preferably in an ```.env``` file
-For Example, if your key is ```t0p53cr3t4p1k3yv4lu3``` add the following to your file:
+Register on the website and insert your API key preferably in an ```.env``` file. For Example, if your key is ```t0p53cr3t4p1k3yv4lu3``` add the following to your file:
 
 ```
 # .env
